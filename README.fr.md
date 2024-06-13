@@ -1,4 +1,4 @@
-## [VERSION FRANCAISE](README.fr.md)
+## [ENGLISH VERSION](README.md)
 
 # Bienvenue, Future Étoile de la Tech !
 
