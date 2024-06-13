@@ -19,6 +19,7 @@ You do ***NOT*** need to:
 To make our lives a bit easier while reviewing your challenge, it would be amazing if you could:
 
 - **Ensure we can build it**: Even if it's unfinished, we should always commit working code. Make sure it displays logs or empty spaces without crashing or rebooting our smart cat feeder (🐈😻). List everything needed to build your project.
+- **User the best tools** : Tu as utilisé ChatGPT ou CoPilot? Correct. It's 2024. 💪🏻 Explain how you use those, what you changed and why...
 - **Show your best work**: Actions speak louder than words! We want to see what you **do** day-to-day. Make sure your submission meets your usual standards 😉.
 - **Submit your result as a PR**: Yup, on GitHub, ideally with witty commit messages. Place your answer in its own directory, and avoid deleting other challenge folders! We <u>will</u> reject it eventually, but don't panic! It means we've made a decision and want to keep our repo clean for the next candidates. Your submission will always be remembered, especially if it's good.
 - **Share your journey**: We want to see how you split your work and chunk it for easy collaboration and review. Please, do not squash your branch when sending the PR. We want to see it all, even if you're not super proud of it! Reorganize your commits if that's your style.
