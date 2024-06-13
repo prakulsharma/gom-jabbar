@@ -1,4 +1,4 @@
-## [ENGLISH VERSION](README.md)
+## [VERSION FRANCAISE](README.fr.md)
 
 # Welcome, Future Tech Star!
 
