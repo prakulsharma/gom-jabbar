@@ -1,3 +1,5 @@
+## [VERSION FRANCAISE](README.fr.md)
+
 # Bienvenue, Future Étoile de la Tech !
 
 Bonjour, candidat(e) !

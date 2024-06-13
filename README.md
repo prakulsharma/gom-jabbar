@@ -1,3 +1,5 @@
+## [ENGLISH VERSION](README.md)
+
 # Welcome, Future Tech Star!
 
 Hello, candidate!
